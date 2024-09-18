@@ -21,7 +21,7 @@
 </p>
 
 ## 📫 How to Reach Me
-[LinkedIn](https://www.linkedin.com/in/manuella-lima)  
+[LinkedIn](https://www.linkedin.com/in/manuella-lima-a310b5262/)  
 [Email](manuella.silvalima@gmail.com)
 
 
