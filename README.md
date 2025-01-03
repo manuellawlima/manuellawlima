@@ -6,8 +6,7 @@
 
 💮 Tenho 19 anos.  
 💮 Moro em São Paulo, Brasil.  
-💮 Atualmente sou estagiária na **Vivo (Telefônica)**.  
-💮 Cursando **Análise e Desenvolvimento de Sistemas** na UNIP.  
+💮 Formada em **Análise e Desenvolvimento de Sistemas** na UNIP.  
 💮 Apaixonada por **Ciência e Análise de Dados**, **SQL**, **Python**, **Inteligência Artificial** e **Business Intelligence**.  
 💮 Estou em busca de crescer através de projetos e cargos que me desafiem a aprimorar minhas habilidades nessas áreas.  
 
